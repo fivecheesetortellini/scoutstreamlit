@@ -1,4 +1,5 @@
-geopandas
-leafmap
-owslib
-streamlit
+streamlit==1.39.0
+geopandas==0.14.3
+leafmap==0.27.1
+owslib==0.29.0
+
